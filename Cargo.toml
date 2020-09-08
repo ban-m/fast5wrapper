@@ -1,0 +1,7 @@
+[package]
+name = "fast5wrapper"
+version = "0.1.0"
+authors = ["ban-m <ban-m@g.ecc.u-tokyo.ac.jp>"]
+
+[dependencies]
+cpython ="0.2"
